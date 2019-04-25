@@ -1,0 +1,5 @@
+1. Make sure Python 3.7 is installed
+2. pip install pipenv (there may be some system dependencies to sort out for mysql)
+3. pipenv install (from this directory)
+4. pipenv shell
+5. python hello_world.py
